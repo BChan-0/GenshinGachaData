@@ -1,0 +1,941 @@
+{
+  "time": "2026-06-11T16:00:37+00:00",
+  "list": [
+    {
+      "name": "lynette",
+      "type": "character",
+      "count": 31730,
+      "guaranteed": 3
+    },
+    {
+      "name": "lumidouce_elegy",
+      "type": "weapon",
+      "count": 954,
+      "guaranteed": 0
+    },
+    {
+      "name": "absolution",
+      "type": "weapon",
+      "count": 1504,
+      "guaranteed": 0
+    },
+    {
+      "name": "lions_roar",
+      "type": "weapon",
+      "count": 5721,
+      "guaranteed": 2
+    },
+    {
+      "name": "portable_power_saw",
+      "type": "weapon",
+      "count": 5655,
+      "guaranteed": 1
+    },
+    {
+      "name": "favonius_sword",
+      "type": "weapon",
+      "count": 5759,
+      "guaranteed": 1
+    },
+    {
+      "name": "favonius_greatsword",
+      "type": "weapon",
+      "count": 5803,
+      "guaranteed": 1
+    },
+    {
+      "name": "navia",
+      "type": "character",
+      "count": 6301,
+      "guaranteed": 6
+    },
+    {
+      "name": "the_first_great_magic",
+      "type": "weapon",
+      "count": 1170,
+      "guaranteed": 2
+    },
+    {
+      "name": "clorinde",
+      "type": "character",
+      "count": 5404,
+      "guaranteed": 12
+    },
+    {
+      "name": "silvershower_heartstrings",
+      "type": "weapon",
+      "count": 829,
+      "guaranteed": 1
+    },
+    {
+      "name": "the_flute",
+      "type": "weapon",
+      "count": 5846,
+      "guaranteed": 0
+    },
+    {
+      "name": "dragons_bane",
+      "type": "weapon",
+      "count": 5762,
+      "guaranteed": 2
+    },
+    {
+      "name": "amber",
+      "type": "character",
+      "count": 1,
+      "guaranteed": 0
+    },
+    {
+      "name": "sacrificial_greatsword",
+      "type": "weapon",
+      "count": 5742,
+      "guaranteed": 1
+    },
+    {
+      "name": "eye_of_perception",
+      "type": "weapon",
+      "count": 5756,
+      "guaranteed": 3
+    },
+    {
+      "name": "emilie",
+      "type": "character",
+      "count": 4365,
+      "guaranteed": 6
+    },
+    {
+      "name": "kujou_sara",
+      "type": "character",
+      "count": 1,
+      "guaranteed": 0
+    },
+    {
+      "name": "chevreuse",
+      "type": "character",
+      "count": 31506,
+      "guaranteed": 1
+    },
+    {
+      "name": "sacrificial_fragments",
+      "type": "weapon",
+      "count": 5618,
+      "guaranteed": 1
+    },
+    {
+      "name": "freminet",
+      "type": "character",
+      "count": 31484,
+      "guaranteed": 0
+    },
+    {
+      "name": "the_dockhands_assistant",
+      "type": "weapon",
+      "count": 5755,
+      "guaranteed": 1
+    },
+    {
+      "name": "favonius_codex",
+      "type": "weapon",
+      "count": 5769,
+      "guaranteed": 1
+    },
+    {
+      "name": "favonius_lance",
+      "type": "weapon",
+      "count": 5712,
+      "guaranteed": 2
+    },
+    {
+      "name": "sigewinne",
+      "type": "character",
+      "count": 3634,
+      "guaranteed": 5
+    },
+    {
+      "name": "the_widsith",
+      "type": "weapon",
+      "count": 5791,
+      "guaranteed": 0
+    },
+    {
+      "name": "range_gauge",
+      "type": "weapon",
+      "count": 5704,
+      "guaranteed": 1
+    },
+    {
+      "name": "sacrificial_sword",
+      "type": "weapon",
+      "count": 5816,
+      "guaranteed": 4
+    },
+    {
+      "name": "rust",
+      "type": "weapon",
+      "count": 5679,
+      "guaranteed": 0
+    },
+    {
+      "name": "faruzan",
+      "type": "character",
+      "count": 1,
+      "guaranteed": 0
+    },
+    {
+      "name": "lyney",
+      "type": "character",
+      "count": 4057,
+      "guaranteed": 3
+    },
+    {
+      "name": "charlotte",
+      "type": "character",
+      "count": 31417,
+      "guaranteed": 0
+    },
+    {
+      "name": "sacrificial_bow",
+      "type": "weapon",
+      "count": 5695,
+      "guaranteed": 0
+    },
+    {
+      "name": "diluc",
+      "type": "character",
+      "count": 2,
+      "guaranteed": 1
+    },
+    {
+      "name": "the_bell",
+      "type": "weapon",
+      "count": 5728,
+      "guaranteed": 1
+    },
+    {
+      "name": "prospectors_drill",
+      "type": "weapon",
+      "count": 5749,
+      "guaranteed": 0
+    },
+    {
+      "name": "verdict",
+      "type": "weapon",
+      "count": 1873,
+      "guaranteed": 2
+    },
+    {
+      "name": "the_stringless",
+      "type": "weapon",
+      "count": 5750,
+      "guaranteed": 1
+    },
+    {
+      "name": "favonius_warbow",
+      "type": "weapon",
+      "count": 5665,
+      "guaranteed": 0
+    },
+    {
+      "name": "rainslasher",
+      "type": "weapon",
+      "count": 5791,
+      "guaranteed": 3
+    },
+    {
+      "name": "barbara",
+      "type": "character",
+      "count": 2,
+      "guaranteed": 0
+    },
+    {
+      "name": "rosaria",
+      "type": "character",
+      "count": 2,
+      "guaranteed": 0
+    },
+    {
+      "name": "kaeya",
+      "type": "character",
+      "count": 3,
+      "guaranteed": 0
+    }
+  ],
+  "pityAverage": {
+    "legendary": 58.45691689097132,
+    "rare": 7.585223343111302
+  },
+  "median": {
+    "legendary": 75
+  },
+  "pityCount": {
+    "legendary": [
+      0,
+      256,
+      234,
+      229,
+      229,
+      269,
+      240,
+      232,
+      240,
+      241,
+      224,
+      221,
+      235,
+      233,
+      222,
+      219,
+      197,
+      231,
+      211,
+      177,
+      217,
+      176,
+      180,
+      196,
+      170,
+      192,
+      201,
+      197,
+      209,
+      192,
+      182,
+      190,
+      161,
+      173,
+      151,
+      155,
+      169,
+      175,
+      153,
+      166,
+      156,
+      150,
+      151,
+      172,
+      137,
+      156,
+      155,
+      146,
+      143,
+      155,
+      161,
+      149,
+      144,
+      135,
+      154,
+      161,
+      143,
+      139,
+      159,
+      156,
+      141,
+      147,
+      156,
+      137,
+      145,
+      153,
+      152,
+      157,
+      164,
+      142,
+      165,
+      175,
+      175,
+      181,
+      1115,
+      2045,
+      2532,
+      2710,
+      2541,
+      2154,
+      1697,
+      1051,
+      602,
+      291,
+      127,
+      46,
+      15,
+      3,
+      4,
+      1,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "rare": [
+      13441,
+      12581,
+      12194,
+      11142,
+      10685,
+      10244,
+      9624,
+      9123,
+      92178,
+      70374
+    ]
+  },
+  "total": {
+    "legendary": 30093,
+    "rare": 252413,
+    "all": 1951878,
+    "users": 34007
+  },
+  "countEachPity": [
+    30862,
+    30293,
+    29650,
+    29029,
+    28377,
+    27710,
+    27174,
+    26635,
+    26155,
+    25681,
+    25596,
+    25391,
+    25140,
+    24902,
+    24655,
+    24435,
+    24198,
+    23960,
+    23724,
+    23547,
+    23460,
+    23327,
+    23186,
+    23006,
+    22855,
+    22692,
+    22511,
+    22322,
+    22140,
+    21969,
+    21900,
+    21743,
+    21622,
+    21481,
+    21354,
+    21249,
+    21080,
+    20929,
+    20819,
+    20687,
+    20621,
+    20551,
+    20423,
+    20291,
+    20183,
+    20065,
+    19933,
+    19834,
+    19734,
+    19627,
+    19599,
+    19509,
+    19419,
+    19308,
+    19192,
+    19079,
+    18984,
+    18902,
+    18776,
+    18646,
+    18602,
+    18508,
+    18377,
+    18265,
+    18141,
+    18030,
+    17894,
+    17761,
+    17607,
+    17487,
+    17372,
+    17219,
+    17070,
+    16900,
+    15799,
+    13763,
+    11240,
+    8532,
+    5990,
+    3837,
+    2143,
+    1094,
+    490,
+    199,
+    71,
+    25,
+    10,
+    7,
+    3,
+    2
+  ],
+  "pullByDay": [
+    {
+      "day": "2026-04-28T22:00:00.000Z",
+      "percentage": 0.20485569613517762
+    },
+    {
+      "day": "2026-04-29T22:00:00.000Z",
+      "percentage": 0.07585274378053199
+    },
+    {
+      "day": "2026-04-30T22:00:00.000Z",
+      "percentage": 0.12906868195714585
+    },
+    {
+      "day": "2026-05-01T22:00:00.000Z",
+      "percentage": 0.06723199341451983
+    },
+    {
+      "day": "2026-05-02T22:00:00.000Z",
+      "percentage": 0.05426213434974252
+    },
+    {
+      "day": "2026-05-03T22:00:00.000Z",
+      "percentage": 0.04218666737612904
+    },
+    {
+      "day": "2026-05-04T22:00:00.000Z",
+      "percentage": 0.036587131239323833
+    },
+    {
+      "day": "2026-05-05T22:00:00.000Z",
+      "percentage": 0.0329649606444005
+    },
+    {
+      "day": "2026-05-06T22:00:00.000Z",
+      "percentage": 0.03326700381779441
+    },
+    {
+      "day": "2026-05-07T22:00:00.000Z",
+      "percentage": 0.04425871484542197
+    },
+    {
+      "day": "2026-05-08T22:00:00.000Z",
+      "percentage": 0.0384283426045981
+    },
+    {
+      "day": "2026-05-09T22:00:00.000Z",
+      "percentage": 0.03014797768010498
+    },
+    {
+      "day": "2026-05-10T22:00:00.000Z",
+      "percentage": 0.025964757978126127
+    },
+    {
+      "day": "2026-05-11T22:00:00.000Z",
+      "percentage": 0.024810577458032824
+    },
+    {
+      "day": "2026-05-12T22:00:00.000Z",
+      "percentage": 0.023680654291243174
+    },
+    {
+      "day": "2026-05-13T22:00:00.000Z",
+      "percentage": 0.02572140194982171
+    },
+    {
+      "day": "2026-05-14T22:00:00.000Z",
+      "percentage": 0.022673582881507524
+    },
+    {
+      "day": "2026-05-15T22:00:00.000Z",
+      "percentage": 0.034750614845656724
+    },
+    {
+      "day": "2026-05-16T22:00:00.000Z",
+      "percentage": 0.022313635058291984
+    },
+    {
+      "day": "2026-05-17T22:00:00.000Z",
+      "percentage": 0.020048311257837667
+    },
+    {
+      "day": "2026-05-18T22:00:00.000Z",
+      "percentage": 0.010924416434591612
+    }
+  ],
+  "constellation": {
+    "absolution": [
+      1347,
+      70,
+      9,
+      48,
+      30
+    ],
+    "amber": [
+      1
+    ],
+    "barbara": [
+      0,
+      2
+    ],
+    "charlotte": [
+      8164,
+      7130,
+      4971,
+      3228,
+      1885,
+      1428,
+      784,
+      3827
+    ],
+    "chevreuse": [
+      8218,
+      7064,
+      5157,
+      2932,
+      2120,
+      1314,
+      1001,
+      3700
+    ],
+    "clorinde": [
+      3925,
+      558,
+      273,
+      224,
+      90,
+      144,
+      147,
+      43
+    ],
+    "diluc": [
+      0,
+      2
+    ],
+    "dragons_bane": [
+      3870,
+      1220,
+      396,
+      124,
+      55,
+      36,
+      28,
+      33
+    ],
+    "emilie": [
+      3741,
+      352,
+      126,
+      60,
+      10,
+      48,
+      28
+    ],
+    "eye_of_perception": [
+      3855,
+      1236,
+      414,
+      120,
+      40,
+      24,
+      28,
+      39
+    ],
+    "faruzan": [
+      1
+    ],
+    "favonius_codex": [
+      3850,
+      1210,
+      429,
+      148,
+      35,
+      42,
+      35,
+      20
+    ],
+    "favonius_greatsword": [
+      3885,
+      1254,
+      357,
+      120,
+      105,
+      24,
+      21,
+      37
+    ],
+    "favonius_lance": [
+      3899,
+      1118,
+      339,
+      200,
+      70,
+      30,
+      null,
+      56
+    ],
+    "favonius_sword": [
+      3852,
+      1252,
+      411,
+      120,
+      50,
+      36,
+      14,
+      24
+    ],
+    "favonius_warbow": [
+      3825,
+      1220,
+      348,
+      136,
+      70,
+      18,
+      21,
+      27
+    ],
+    "freminet": [
+      8175,
+      7118,
+      5016,
+      3028,
+      1975,
+      1374,
+      952,
+      3846
+    ],
+    "kaeya": [
+      1,
+      2
+    ],
+    "kujou_sara": [
+      1
+    ],
+    "lions_roar": [
+      3804,
+      1292,
+      336,
+      132,
+      80,
+      30,
+      21,
+      26
+    ],
+    "lumidouce_elegy": [
+      915,
+      28,
+      3,
+      8
+    ],
+    "lynette": [
+      8116,
+      7232,
+      5055,
+      3152,
+      2130,
+      1266,
+      1001,
+      3778
+    ],
+    "lyney": [
+      3335,
+      296,
+      162,
+      88,
+      35,
+      48,
+      77,
+      16
+    ],
+    "navia": [
+      5304,
+      488,
+      174,
+      120,
+      40,
+      96,
+      70,
+      9
+    ],
+    "portable_power_saw": [
+      3869,
+      1172,
+      357,
+      128,
+      60,
+      30,
+      null,
+      39
+    ],
+    "prospectors_drill": [
+      3941,
+      1220,
+      351,
+      104,
+      35,
+      36,
+      null,
+      62
+    ],
+    "rainslasher": [
+      3873,
+      1242,
+      420,
+      104,
+      55,
+      30,
+      21,
+      46
+    ],
+    "range_gauge": [
+      3844,
+      1198,
+      345,
+      140,
+      95,
+      24,
+      42,
+      16
+    ],
+    "rosaria": [
+      0,
+      2
+    ],
+    "rust": [
+      3840,
+      1168,
+      363,
+      156,
+      70,
+      36,
+      35,
+      11
+    ],
+    "sacrificial_bow": [
+      3841,
+      1184,
+      393,
+      124,
+      70,
+      18,
+      21,
+      44
+    ],
+    "sacrificial_fragments": [
+      3846,
+      1174,
+      360,
+      124,
+      60,
+      18,
+      7,
+      29
+    ],
+    "sacrificial_greatsword": [
+      3832,
+      1196,
+      402,
+      168,
+      65,
+      42,
+      28,
+      9
+    ],
+    "sacrificial_sword": [
+      3908,
+      1162,
+      435,
+      180,
+      60,
+      30,
+      21,
+      20
+    ],
+    "sigewinne": [
+      2956,
+      282,
+      126,
+      64,
+      40,
+      96,
+      70
+    ],
+    "silvershower_heartstrings": [
+      737,
+      34,
+      18,
+      24,
+      10,
+      6
+    ],
+    "the_bell": [
+      3851,
+      1212,
+      384,
+      116,
+      90,
+      30,
+      35,
+      10
+    ],
+    "the_dockhands_assistant": [
+      3844,
+      1246,
+      417,
+      120,
+      65,
+      24,
+      14,
+      25
+    ],
+    "the_first_great_magic": [
+      1042,
+      62,
+      21,
+      24,
+      15,
+      6
+    ],
+    "the_flute": [
+      3876,
+      1202,
+      438,
+      172,
+      80,
+      36,
+      7,
+      35
+    ],
+    "the_stringless": [
+      3932,
+      1220,
+      327,
+      152,
+      60,
+      24,
+      14,
+      21
+    ],
+    "the_widsith": [
+      3925,
+      1206,
+      387,
+      168,
+      60,
+      24,
+      21
+    ],
+    "verdict": [
+      1761,
+      64,
+      18,
+      20,
+      10
+    ]
+  }
+}
