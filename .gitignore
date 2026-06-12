@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+# Scraped UIGF exports contain real, plaintext account UIDs -- do not commit.
+# The synthetic sample is kept so the pipeline still runs out of the box.
+# (csv/pulls.csv is safe to share: parse_uigf.py replaces UIDs with salted hashes.)
+raw/uigf/*
+!raw/uigf/sample_uigf.json

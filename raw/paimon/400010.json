@@ -1,0 +1,289 @@
+{
+  "time": "2026-06-09T11:47:33+00:00",
+  "list": [
+    {
+      "name": "skyward_harp",
+      "type": "weapon",
+      "count": 5661,
+      "guaranteed": 759
+    },
+    {
+      "name": "wolfs_gravestone",
+      "type": "weapon",
+      "count": 300,
+      "guaranteed": 0
+    },
+    {
+      "name": "skyward_spine",
+      "type": "weapon",
+      "count": 289,
+      "guaranteed": 0
+    },
+    {
+      "name": "primordial_jade_winged-spear",
+      "type": "weapon",
+      "count": 334,
+      "guaranteed": 1
+    },
+    {
+      "name": "skyward_atlas",
+      "type": "weapon",
+      "count": 286,
+      "guaranteed": 1
+    },
+    {
+      "name": "summit_shaper",
+      "type": "weapon",
+      "count": 1,
+      "guaranteed": 1
+    },
+    {
+      "name": "skyward_pride",
+      "type": "weapon",
+      "count": 305,
+      "guaranteed": 0
+    },
+    {
+      "name": "aquila_favonia",
+      "type": "weapon",
+      "count": 302,
+      "guaranteed": 0
+    },
+    {
+      "name": "skyward_blade",
+      "type": "weapon",
+      "count": 301,
+      "guaranteed": 0
+    },
+    {
+      "name": "primordial_jade_cutter",
+      "type": "weapon",
+      "count": 1,
+      "guaranteed": 0
+    },
+    {
+      "name": "amos_bow",
+      "type": "weapon",
+      "count": 324,
+      "guaranteed": 0
+    },
+    {
+      "name": "lost_prayer_to_the_sacred_winds",
+      "type": "weapon",
+      "count": 5709,
+      "guaranteed": 792
+    }
+  ],
+  "pityAverage": {
+    "legendary": 50.50264243828278,
+    "rare": 6.632540636321371
+  },
+  "median": {
+    "legendary": 64
+  },
+  "pityCount": {
+    "legendary": [
+      0,
+      129,
+      114,
+      118,
+      131,
+      154,
+      123,
+      127,
+      134,
+      108,
+      126,
+      120,
+      100,
+      114,
+      107,
+      98,
+      109,
+      108,
+      113,
+      95,
+      105,
+      91,
+      68,
+      84,
+      94,
+      87,
+      81,
+      89,
+      91,
+      78,
+      93,
+      98,
+      79,
+      84,
+      80,
+      86,
+      72,
+      87,
+      80,
+      71,
+      85,
+      81,
+      89,
+      73,
+      91,
+      76,
+      92,
+      79,
+      68,
+      69,
+      79,
+      83,
+      80,
+      78,
+      102,
+      88,
+      111,
+      96,
+      97,
+      86,
+      76,
+      86,
+      107,
+      611,
+      1124,
+      1346,
+      1373,
+      1216,
+      925,
+      647,
+      375,
+      173,
+      66,
+      28,
+      8,
+      5,
+      4,
+      2,
+      1,
+      1,
+      2,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      1
+    ],
+    "rare": [
+      7275,
+      6830,
+      6332,
+      6046,
+      5613,
+      5377,
+      4820,
+      47692,
+      23755,
+      259
+    ]
+  },
+  "total": {
+    "legendary": 13813,
+    "rare": 0,
+    "all": 780328,
+    "users": 41686
+  },
+  "countEachPity": [],
+  "pullByDay": [],
+  "constellation": {
+    "amos_bow": [
+      322,
+      2
+    ],
+    "aquila_favonia": [
+      302
+    ],
+    "lost_prayer_to_the_sacred_winds": [
+      4318,
+      720,
+      309,
+      144,
+      85,
+      36,
+      35,
+      62
+    ],
+    "primordial_jade_cutter": [
+      1
+    ],
+    "primordial_jade_winged-spear": [
+      328,
+      6
+    ],
+    "skyward_atlas": [
+      280,
+      6
+    ],
+    "skyward_blade": [
+      301
+    ],
+    "skyward_harp": [
+      4785,
+      434,
+      177,
+      116,
+      75,
+      48,
+      7,
+      19
+    ],
+    "skyward_pride": [
+      303,
+      2
+    ],
+    "skyward_spine": [
+      287,
+      2
+    ],
+    "summit_shaper": [
+      1
+    ],
+    "wolfs_gravestone": [
+      298,
+      2
+    ]
+  }
+}

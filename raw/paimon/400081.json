@@ -1,0 +1,1261 @@
+{
+  "time": "2026-06-09T10:08:02+00:00",
+  "list": [
+    {
+      "name": "lynette",
+      "type": "character",
+      "count": 1992,
+      "guaranteed": 3
+    },
+    {
+      "name": "noelle",
+      "type": "character",
+      "count": 1963,
+      "guaranteed": 3
+    },
+    {
+      "name": "makhaira_aquamarine",
+      "type": "weapon",
+      "count": 73,
+      "guaranteed": 58
+    },
+    {
+      "name": "chongyun",
+      "type": "character",
+      "count": 1955,
+      "guaranteed": 4
+    },
+    {
+      "name": "freminet",
+      "type": "character",
+      "count": 2018,
+      "guaranteed": 1
+    },
+    {
+      "name": "lions_roar",
+      "type": "weapon",
+      "count": 430,
+      "guaranteed": 1
+    },
+    {
+      "name": "collei",
+      "type": "character",
+      "count": 1966,
+      "guaranteed": 1
+    },
+    {
+      "name": "skyward_harp",
+      "type": "weapon",
+      "count": 909,
+      "guaranteed": 4
+    },
+    {
+      "name": "portable_power_saw",
+      "type": "weapon",
+      "count": 69206,
+      "guaranteed": 17336
+    },
+    {
+      "name": "favonius_sword",
+      "type": "weapon",
+      "count": 433,
+      "guaranteed": 1
+    },
+    {
+      "name": "favonius_greatsword",
+      "type": "weapon",
+      "count": 377,
+      "guaranteed": 0
+    },
+    {
+      "name": "symphonist_of_scents",
+      "type": "weapon",
+      "count": 26913,
+      "guaranteed": 5795
+    },
+    {
+      "name": "layla",
+      "type": "character",
+      "count": 1891,
+      "guaranteed": 1
+    },
+    {
+      "name": "gorou",
+      "type": "character",
+      "count": 1966,
+      "guaranteed": 3
+    },
+    {
+      "name": "iansan",
+      "type": "character",
+      "count": 1949,
+      "guaranteed": 4
+    },
+    {
+      "name": "ororon",
+      "type": "character",
+      "count": 1891,
+      "guaranteed": 3
+    },
+    {
+      "name": "gaming",
+      "type": "character",
+      "count": 1887,
+      "guaranteed": 5
+    },
+    {
+      "name": "razor",
+      "type": "character",
+      "count": 1989,
+      "guaranteed": 1
+    },
+    {
+      "name": "the_flute",
+      "type": "weapon",
+      "count": 388,
+      "guaranteed": 1
+    },
+    {
+      "name": "sacrificial_bow",
+      "type": "weapon",
+      "count": 483,
+      "guaranteed": 76
+    },
+    {
+      "name": "xiphos_moonlight",
+      "type": "weapon",
+      "count": 88,
+      "guaranteed": 62
+    },
+    {
+      "name": "dragons_bane",
+      "type": "weapon",
+      "count": 433,
+      "guaranteed": 4
+    },
+    {
+      "name": "flower-wreathed_feathers",
+      "type": "weapon",
+      "count": 37,
+      "guaranteed": 15
+    },
+    {
+      "name": "sacrificial_greatsword",
+      "type": "weapon",
+      "count": 423,
+      "guaranteed": 2
+    },
+    {
+      "name": "shikanoin_heizou",
+      "type": "character",
+      "count": 1986,
+      "guaranteed": 1
+    },
+    {
+      "name": "rosaria",
+      "type": "character",
+      "count": 1890,
+      "guaranteed": 5
+    },
+    {
+      "name": "eye_of_perception",
+      "type": "weapon",
+      "count": 449,
+      "guaranteed": 1
+    },
+    {
+      "name": "wolfs_gravestone",
+      "type": "weapon",
+      "count": 871,
+      "guaranteed": 1
+    },
+    {
+      "name": "skyward_blade",
+      "type": "weapon",
+      "count": 850,
+      "guaranteed": 1
+    },
+    {
+      "name": "sturdy_bone",
+      "type": "weapon",
+      "count": 35,
+      "guaranteed": 10
+    },
+    {
+      "name": "kujou_sara",
+      "type": "character",
+      "count": 1947,
+      "guaranteed": 2
+    },
+    {
+      "name": "chevreuse",
+      "type": "character",
+      "count": 1935,
+      "guaranteed": 7
+    },
+    {
+      "name": "sacrificial_fragments",
+      "type": "weapon",
+      "count": 365,
+      "guaranteed": 1
+    },
+    {
+      "name": "waveriding_whirl",
+      "type": "weapon",
+      "count": 52,
+      "guaranteed": 12
+    },
+    {
+      "name": "aquila_favonia",
+      "type": "weapon",
+      "count": 842,
+      "guaranteed": 2
+    },
+    {
+      "name": "prospectors_drill",
+      "type": "weapon",
+      "count": 69530,
+      "guaranteed": 17355
+    },
+    {
+      "name": "wandering_evenstar",
+      "type": "weapon",
+      "count": 80,
+      "guaranteed": 63
+    },
+    {
+      "name": "yun_jin",
+      "type": "character",
+      "count": 1902,
+      "guaranteed": 4
+    },
+    {
+      "name": "the_dockhands_assistant",
+      "type": "weapon",
+      "count": 68833,
+      "guaranteed": 17024
+    },
+    {
+      "name": "sethos",
+      "type": "character",
+      "count": 1891,
+      "guaranteed": 1
+    },
+    {
+      "name": "favonius_codex",
+      "type": "weapon",
+      "count": 400,
+      "guaranteed": 3
+    },
+    {
+      "name": "diona",
+      "type": "character",
+      "count": 1922,
+      "guaranteed": 4
+    },
+    {
+      "name": "mika",
+      "type": "character",
+      "count": 1960,
+      "guaranteed": 3
+    },
+    {
+      "name": "fruitful_hook",
+      "type": "weapon",
+      "count": 49,
+      "guaranteed": 9
+    },
+    {
+      "name": "favonius_lance",
+      "type": "weapon",
+      "count": 509,
+      "guaranteed": 72
+    },
+    {
+      "name": "xingqiu",
+      "type": "character",
+      "count": 1922,
+      "guaranteed": 4
+    },
+    {
+      "name": "kirara",
+      "type": "character",
+      "count": 1963,
+      "guaranteed": 3
+    },
+    {
+      "name": "kuki_shinobu",
+      "type": "character",
+      "count": 1887,
+      "guaranteed": 2
+    },
+    {
+      "name": "skyward_spine",
+      "type": "weapon",
+      "count": 859,
+      "guaranteed": 8
+    },
+    {
+      "name": "kaveh",
+      "type": "character",
+      "count": 2005,
+      "guaranteed": 5
+    },
+    {
+      "name": "the_widsith",
+      "type": "weapon",
+      "count": 68969,
+      "guaranteed": 17190
+    },
+    {
+      "name": "bennett",
+      "type": "character",
+      "count": 1937,
+      "guaranteed": 1
+    },
+    {
+      "name": "range_gauge",
+      "type": "weapon",
+      "count": 69413,
+      "guaranteed": 17263
+    },
+    {
+      "name": "skyward_atlas",
+      "type": "weapon",
+      "count": 834,
+      "guaranteed": 1
+    },
+    {
+      "name": "kachina",
+      "type": "character",
+      "count": 1974,
+      "guaranteed": 2
+    },
+    {
+      "name": "candace",
+      "type": "character",
+      "count": 1995,
+      "guaranteed": 3
+    },
+    {
+      "name": "amos_bow",
+      "type": "weapon",
+      "count": 897,
+      "guaranteed": 2
+    },
+    {
+      "name": "xinyan",
+      "type": "character",
+      "count": 1948,
+      "guaranteed": 5
+    },
+    {
+      "name": "rust",
+      "type": "weapon",
+      "count": 398,
+      "guaranteed": 4
+    },
+    {
+      "name": "faruzan",
+      "type": "character",
+      "count": 2020,
+      "guaranteed": 6
+    },
+    {
+      "name": "yanfei",
+      "type": "character",
+      "count": 1963,
+      "guaranteed": 3
+    },
+    {
+      "name": "lan_yan",
+      "type": "character",
+      "count": 1918,
+      "guaranteed": 4
+    },
+    {
+      "name": "ifa",
+      "type": "character",
+      "count": 2,
+      "guaranteed": 1
+    },
+    {
+      "name": "xiangling",
+      "type": "character",
+      "count": 1891,
+      "guaranteed": 4
+    },
+    {
+      "name": "charlotte",
+      "type": "character",
+      "count": 1942,
+      "guaranteed": 5
+    },
+    {
+      "name": "fischl",
+      "type": "character",
+      "count": 1941,
+      "guaranteed": 3
+    },
+    {
+      "name": "sayu",
+      "type": "character",
+      "count": 1920,
+      "guaranteed": 0
+    },
+    {
+      "name": "ningguang",
+      "type": "character",
+      "count": 1935,
+      "guaranteed": 4
+    },
+    {
+      "name": "skyward_pride",
+      "type": "weapon",
+      "count": 939,
+      "guaranteed": 1
+    },
+    {
+      "name": "the_bell",
+      "type": "weapon",
+      "count": 384,
+      "guaranteed": 3
+    },
+    {
+      "name": "sacrificial_sword",
+      "type": "weapon",
+      "count": 397,
+      "guaranteed": 0
+    },
+    {
+      "name": "mountain-bracing_bolt",
+      "type": "weapon",
+      "count": 50,
+      "guaranteed": 17
+    },
+    {
+      "name": "verdict",
+      "type": "weapon",
+      "count": 17965,
+      "guaranteed": 2395
+    },
+    {
+      "name": "thoma",
+      "type": "character",
+      "count": 2016,
+      "guaranteed": 5
+    },
+    {
+      "name": "yaoyao",
+      "type": "character",
+      "count": 1938,
+      "guaranteed": 0
+    },
+    {
+      "name": "the_stringless",
+      "type": "weapon",
+      "count": 436,
+      "guaranteed": 2
+    },
+    {
+      "name": "beidou",
+      "type": "character",
+      "count": 1952,
+      "guaranteed": 1
+    },
+    {
+      "name": "barbara",
+      "type": "character",
+      "count": 1931,
+      "guaranteed": 5
+    },
+    {
+      "name": "favonius_warbow",
+      "type": "weapon",
+      "count": 421,
+      "guaranteed": 2
+    },
+    {
+      "name": "lost_prayer_to_the_sacred_winds",
+      "type": "weapon",
+      "count": 866,
+      "guaranteed": 6
+    },
+    {
+      "name": "rainslasher",
+      "type": "weapon",
+      "count": 390,
+      "guaranteed": 3
+    },
+    {
+      "name": "wavebreakers_fin",
+      "type": "weapon",
+      "count": 1,
+      "guaranteed": 0
+    },
+    {
+      "name": "sucrose",
+      "type": "character",
+      "count": 1934,
+      "guaranteed": 6
+    },
+    {
+      "name": "primordial_jade_winged-spear",
+      "type": "weapon",
+      "count": 876,
+      "guaranteed": 0
+    },
+    {
+      "name": "dori",
+      "type": "character",
+      "count": 1925,
+      "guaranteed": 3
+    }
+  ],
+  "pityAverage": {
+    "legendary": 51.62650827101322,
+    "rare": 6.710307660350359
+  },
+  "median": {
+    "legendary": 64
+  },
+  "pityCount": {
+    "legendary": [
+      0,
+      448,
+      414,
+      432,
+      449,
+      424,
+      403,
+      407,
+      413,
+      405,
+      378,
+      419,
+      395,
+      341,
+      386,
+      368,
+      387,
+      402,
+      403,
+      356,
+      352,
+      347,
+      374,
+      344,
+      369,
+      376,
+      363,
+      323,
+      377,
+      342,
+      310,
+      356,
+      314,
+      361,
+      326,
+      331,
+      333,
+      292,
+      302,
+      316,
+      301,
+      302,
+      287,
+      256,
+      308,
+      295,
+      325,
+      303,
+      279,
+      314,
+      290,
+      271,
+      287,
+      281,
+      294,
+      283,
+      281,
+      310,
+      303,
+      293,
+      297,
+      339,
+      317,
+      2657,
+      4339,
+      5557,
+      5696,
+      5029,
+      3869,
+      2606,
+      1487,
+      716,
+      270,
+      109,
+      21,
+      4,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "rare": [
+      26501,
+      24551,
+      23183,
+      21892,
+      20470,
+      19470,
+      18188,
+      184133,
+      93715,
+      1167
+    ]
+  },
+  "total": {
+    "legendary": 53621,
+    "rare": 433291,
+    "all": 2917446,
+    "users": 80675
+  },
+  "countEachPity": [
+    48766,
+    47466,
+    46035,
+    44632,
+    43301,
+    42093,
+    40971,
+    39996,
+    39001,
+    37973,
+    38048,
+    37756,
+    37497,
+    37240,
+    36954,
+    36742,
+    36473,
+    36170,
+    35878,
+    35615,
+    35772,
+    35583,
+    35373,
+    35179,
+    34936,
+    34812,
+    34633,
+    34444,
+    34224,
+    33991,
+    34127,
+    33988,
+    33866,
+    33689,
+    33513,
+    33424,
+    33298,
+    33183,
+    33045,
+    32905,
+    33066,
+    33013,
+    32929,
+    32876,
+    32747,
+    32732,
+    32615,
+    32510,
+    32429,
+    32307,
+    32533,
+    32501,
+    32413,
+    32333,
+    32262,
+    32284,
+    32223,
+    32102,
+    31996,
+    31887,
+    31934,
+    31789,
+    31672,
+    29222,
+    25038,
+    19626,
+    14008,
+    9035,
+    5193,
+    2595,
+    1120,
+    408,
+    138,
+    29,
+    9,
+    5,
+    4,
+    4,
+    5,
+    5,
+    5,
+    5,
+    5,
+    4,
+    4,
+    4,
+    2,
+    2,
+    0,
+    0
+  ],
+  "pullByDay": [
+    {
+      "day": "2025-05-07T22:00:00.000Z",
+      "percentage": 0.1257121740453954
+    },
+    {
+      "day": "2025-05-08T22:00:00.000Z",
+      "percentage": 0.08733533439099607
+    },
+    {
+      "day": "2025-05-09T22:00:00.000Z",
+      "percentage": 0.07371575565522755
+    },
+    {
+      "day": "2025-05-10T22:00:00.000Z",
+      "percentage": 0.06255202041462755
+    },
+    {
+      "day": "2025-05-11T22:00:00.000Z",
+      "percentage": 0.04846828588705862
+    },
+    {
+      "day": "2025-05-12T22:00:00.000Z",
+      "percentage": 0.05461886433350108
+    },
+    {
+      "day": "2025-05-13T22:00:00.000Z",
+      "percentage": 0.04358745120193725
+    },
+    {
+      "day": "2025-05-14T22:00:00.000Z",
+      "percentage": 0.040688020118445425
+    },
+    {
+      "day": "2025-05-15T22:00:00.000Z",
+      "percentage": 0.06938203518259765
+    },
+    {
+      "day": "2025-05-16T22:00:00.000Z",
+      "percentage": 0.04962627574282067
+    },
+    {
+      "day": "2025-05-17T22:00:00.000Z",
+      "percentage": 0.04152788842709463
+    },
+    {
+      "day": "2025-05-18T22:00:00.000Z",
+      "percentage": 0.03625968590982077
+    },
+    {
+      "day": "2025-05-19T22:00:00.000Z",
+      "percentage": 0.0350249080944108
+    },
+    {
+      "day": "2025-05-20T22:00:00.000Z",
+      "percentage": 0.03165309393772771
+    },
+    {
+      "day": "2025-05-21T22:00:00.000Z",
+      "percentage": 0.028984712339962238
+    },
+    {
+      "day": "2025-05-22T22:00:00.000Z",
+      "percentage": 0.03603000763765956
+    },
+    {
+      "day": "2025-05-23T22:00:00.000Z",
+      "percentage": 0.03397318728994722
+    },
+    {
+      "day": "2025-05-24T22:00:00.000Z",
+      "percentage": 0.03675058036614145
+    },
+    {
+      "day": "2025-05-25T22:00:00.000Z",
+      "percentage": 0.03685822063100506
+    },
+    {
+      "day": "2025-05-26T22:00:00.000Z",
+      "percentage": 0.02706775577589434
+    },
+    {
+      "day": "2025-05-27T22:00:00.000Z",
+      "percentage": 0.00018374261772896868
+    }
+  ],
+  "constellation": {
+    "amos_bow": [
+      893,
+      4
+    ],
+    "aquila_favonia": [
+      834,
+      8
+    ],
+    "barbara": [
+      1850,
+      78,
+      3
+    ],
+    "beidou": [
+      1864,
+      82,
+      6
+    ],
+    "bennett": [
+      1843,
+      88,
+      6
+    ],
+    "candace": [
+      1904,
+      88,
+      3
+    ],
+    "charlotte": [
+      1827,
+      106,
+      9
+    ],
+    "chevreuse": [
+      1847,
+      88
+    ],
+    "chongyun": [
+      1847,
+      102,
+      6
+    ],
+    "collei": [
+      1852,
+      108,
+      6
+    ],
+    "diona": [
+      1840,
+      82
+    ],
+    "dori": [
+      1838,
+      84,
+      3
+    ],
+    "dragons_bane": [
+      429,
+      4
+    ],
+    "eye_of_perception": [
+      447,
+      2
+    ],
+    "faruzan": [
+      1903,
+      108,
+      9
+    ],
+    "favonius_codex": [
+      396,
+      4
+    ],
+    "favonius_greatsword": [
+      373,
+      4
+    ],
+    "favonius_lance": [
+      464,
+      38,
+      3,
+      4
+    ],
+    "favonius_sword": [
+      431,
+      2
+    ],
+    "favonius_warbow": [
+      419,
+      2
+    ],
+    "fischl": [
+      1849,
+      86,
+      6
+    ],
+    "flower-wreathed_feathers": [
+      24,
+      10,
+      3
+    ],
+    "freminet": [
+      1905,
+      110,
+      3
+    ],
+    "fruitful_hook": [
+      24,
+      12,
+      9,
+      4
+    ],
+    "gaming": [
+      1797,
+      80,
+      6,
+      4
+    ],
+    "gorou": [
+      1894,
+      66,
+      6
+    ],
+    "iansan": [
+      1864,
+      82,
+      3
+    ],
+    "ifa": [
+      2
+    ],
+    "kachina": [
+      1894,
+      74,
+      6
+    ],
+    "kaveh": [
+      1871,
+      128,
+      6
+    ],
+    "kirara": [
+      1855,
+      100,
+      3,
+      0,
+      5
+    ],
+    "kujou_sara": [
+      1897,
+      50
+    ],
+    "kuki_shinobu": [
+      1778,
+      106,
+      3
+    ],
+    "lan_yan": [
+      1816,
+      92,
+      6,
+      4
+    ],
+    "layla": [
+      1795,
+      90,
+      6
+    ],
+    "lions_roar": [
+      426,
+      4
+    ],
+    "lost_prayer_to_the_sacred_winds": [
+      860,
+      6
+    ],
+    "lynette": [
+      1898,
+      82,
+      12
+    ],
+    "makhaira_aquamarine": [
+      48,
+      10,
+      6,
+      4,
+      5
+    ],
+    "mika": [
+      1864,
+      96
+    ],
+    "mountain-bracing_bolt": [
+      23,
+      18,
+      9
+    ],
+    "ningguang": [
+      1859,
+      76
+    ],
+    "noelle": [
+      1885,
+      72,
+      6
+    ],
+    "ororon": [
+      1793,
+      88,
+      6,
+      4
+    ],
+    "portable_power_saw": [
+      18521,
+      17064,
+      13311,
+      8724,
+      4905,
+      2418,
+      1050,
+      3213
+    ],
+    "primordial_jade_winged-spear": [
+      872,
+      4
+    ],
+    "prospectors_drill": [
+      18948,
+      17092,
+      13272,
+      8556,
+      4775,
+      2496,
+      1169,
+      3222
+    ],
+    "rainslasher": [
+      388,
+      2
+    ],
+    "range_gauge": [
+      18838,
+      17184,
+      13113,
+      8576,
+      5015,
+      2358,
+      1162,
+      3167
+    ],
+    "razor": [
+      1890,
+      90,
+      9
+    ],
+    "rosaria": [
+      1790,
+      94,
+      6
+    ],
+    "rust": [
+      396,
+      2
+    ],
+    "sacrificial_bow": [
+      426,
+      34,
+      6,
+      12,
+      5
+    ],
+    "sacrificial_fragments": [
+      365
+    ],
+    "sacrificial_greatsword": [
+      421,
+      2
+    ],
+    "sacrificial_sword": [
+      391,
+      6
+    ],
+    "sayu": [
+      1810,
+      110
+    ],
+    "sethos": [
+      1795,
+      90,
+      6
+    ],
+    "shikanoin_heizou": [
+      1900,
+      80,
+      6
+    ],
+    "skyward_atlas": [
+      830,
+      4
+    ],
+    "skyward_blade": [
+      850
+    ],
+    "skyward_harp": [
+      901,
+      8
+    ],
+    "skyward_pride": [
+      935,
+      4
+    ],
+    "skyward_spine": [
+      857,
+      2
+    ],
+    "sturdy_bone": [
+      18,
+      8,
+      0,
+      4,
+      5
+    ],
+    "sucrose": [
+      1837,
+      94,
+      3
+    ],
+    "symphonist_of_scents": [
+      24445,
+      1112,
+      108,
+      48,
+      930,
+      102,
+      28,
+      140
+    ],
+    "the_bell": [
+      382,
+      2
+    ],
+    "the_dockhands_assistant": [
+      19253,
+      16772,
+      12618,
+      8736,
+      4615,
+      2388,
+      1379,
+      3072
+    ],
+    "the_flute": [
+      388
+    ],
+    "the_stringless": [
+      432,
+      4
+    ],
+    "the_widsith": [
+      18934,
+      17148,
+      12783,
+      8700,
+      4740,
+      2328,
+      1050,
+      3286
+    ],
+    "thoma": [
+      1893,
+      114,
+      9
+    ],
+    "verdict": [
+      16765,
+      748,
+      177,
+      176,
+      80,
+      12,
+      7
+    ],
+    "wandering_evenstar": [
+      46,
+      28,
+      6
+    ],
+    "wavebreakers_fin": [
+      1
+    ],
+    "waveriding_whirl": [
+      22,
+      20,
+      6,
+      4
+    ],
+    "wolfs_gravestone": [
+      861,
+      10
+    ],
+    "xiangling": [
+      1813,
+      66,
+      12
+    ],
+    "xingqiu": [
+      1863,
+      56,
+      3
+    ],
+    "xinyan": [
+      1863,
+      76,
+      9
+    ],
+    "xiphos_moonlight": [
+      44,
+      28,
+      12,
+      4
+    ],
+    "yanfei": [
+      1863,
+      94,
+      6
+    ],
+    "yaoyao": [
+      1836,
+      96,
+      6
+    ],
+    "yun_jin": [
+      1812,
+      84,
+      6
+    ]
+  }
+}

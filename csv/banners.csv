@@ -1,0 +1,193 @@
+banner_id,banner_type,snapshot_time,featured_5star
+200001,Standard,2026-06-09T11:48:04+00:00,
+300009,Character Event,2026-06-09T11:47:52+00:00,hu_tao
+300010,Character Event,2026-06-09T11:47:39+00:00,venti
+300011,Character Event,2026-06-09T11:47:26+00:00,tartaglia
+300012,Character Event,2026-06-09T11:47:09+00:00,zhongli
+300013,Character Event,2026-06-09T11:46:50+00:00,eula
+300014,Character Event,2026-06-09T11:46:31+00:00,klee
+300015,Character Event,2026-06-09T11:46:09+00:00,kaedehara_kazuha
+300016,Character Event,2026-06-09T11:45:39+00:00,kamisato_ayaka
+300017,Character Event,2026-06-09T11:45:11+00:00,yoimiya
+300018,Character Event,2026-06-09T11:40:55+00:00,raiden_shogun
+300019,Character Event,2026-06-09T11:40:08+00:00,sangonomiya_kokomi
+300020,Character Event,2026-06-09T11:39:24+00:00,tartaglia
+300021,Character Event,2026-06-09T11:34:46+00:00,hu_tao
+300022,Character Event,2026-06-09T11:29:14+00:00,"albedo, eula"
+300023,Character Event,2026-06-09T11:28:22+00:00,arataki_itto
+300024,Character Event,2026-06-09T11:23:35+00:00,"xiao, shenhe"
+300025,Character Event,2026-06-09T11:18:38+00:00,"zhongli, ganyu"
+300026,Character Event,2026-06-09T11:16:13+00:00,yae_miko
+300027,Character Event,2026-06-09T11:11:54+00:00,raiden_shogun
+300028,Character Event,2026-06-09T11:07:41+00:00,"kamisato_ayato, venti"
+300029,Character Event,2026-06-09T11:06:47+00:00,kamisato_ayaka
+300030,Character Event,2026-06-09T11:02:18+00:00,yelan
+300031,Character Event,2026-06-09T11:01:39+00:00,arataki_itto
+300032,Character Event,2026-06-09T10:56:55+00:00,kaedehara_kazuha
+300033,Character Event,2026-06-09T10:56:13+00:00,yoimiya
+300034,Character Event,2026-06-09T10:55:36+00:00,"zhongli, tighnari"
+300035,Character Event,2026-06-09T10:55:00+00:00,"ganyu, sangonomiya_kokomi"
+300036,Character Event,2026-06-09T10:54:21+00:00,"cyno, venti"
+300037,Character Event,2026-06-09T10:53:39+00:00,"nilou, albedo"
+300038,Character Event,2026-06-09T10:51:12+00:00,nahida
+300039,Character Event,2026-06-09T10:50:35+00:00,"yae_miko, tartaglia"
+300040,Character Event,2026-06-09T10:48:24+00:00,wanderer
+300041,Character Event,2026-06-09T10:47:41+00:00,raiden_shogun
+300042,Character Event,2026-06-09T10:46:57+00:00,alhaitham
+300043,Character Event,2026-06-09T10:44:28+00:00,"yelan, hu_tao"
+300044,Character Event,2026-06-09T10:43:51+00:00,"dehya, cyno"
+300045,Character Event,2026-06-09T10:43:08+00:00,"shenhe, kamisato_ayaka"
+300046,Character Event,2026-06-09T10:42:27+00:00,"nahida, nilou"
+300047,Character Event,2026-06-09T10:41:54+00:00,"baizhu, ganyu"
+300048,Character Event,2026-06-09T10:41:18+00:00,"yae_miko, yoimiya"
+300049,Character Event,2026-06-09T10:40:38+00:00,"kaedehara_kazuha, alhaitham"
+300050,Character Event,2026-06-09T10:40:01+00:00,"eula, klee"
+300051,Character Event,2026-06-09T10:39:23+00:00,"wanderer, sangonomiya_kokomi"
+300052,Character Event,2026-06-09T10:38:38+00:00,"yelan, lyney"
+300053,Character Event,2026-06-09T10:38:05+00:00,"zhongli, tartaglia"
+300054,Character Event,2026-06-09T10:37:05+00:00,"neuvillette, hu_tao"
+300055,Character Event,2026-06-09T10:36:22+00:00,wriothesley
+300056,Character Event,2026-06-09T10:30:53+00:00,furina
+300057,Character Event,2026-06-09T10:30:07+00:00,"kamisato_ayato, cyno"
+300058,Character Event,2026-06-09T10:29:24+00:00,navia
+300059,Character Event,2026-06-09T10:28:43+00:00,raiden_shogun
+300060,Character Event,2026-06-09T10:27:59+00:00,"xianyun, nahida"
+300061,Character Event,2026-06-09T10:27:27+00:00,"yae_miko, xiao"
+300062,Character Event,2026-06-09T10:26:57+00:00,chiori
+300063,Character Event,2026-06-09T10:26:17+00:00,"neuvillette, kaedehara_kazuha"
+300064,Character Event,2026-06-09T10:25:19+00:00,arlecchino
+300065,Character Event,2026-06-09T10:24:49+00:00,"wanderer, baizhu"
+300066,Character Event,2026-06-09T10:24:07+00:00,clorinde
+300067,Character Event,2026-06-09T10:23:25+00:00,furina
+300068,Character Event,2026-06-09T10:22:46+00:00,"navia, nilou"
+300069,Character Event,2026-06-09T10:22:06+00:00,"yelan, emilie"
+300070,Character Event,2026-06-09T10:21:16+00:00,"mualani, kaedehara_kazuha"
+300071,Character Event,2026-06-09T10:20:28+00:00,"kinich, raiden_shogun"
+300072,Character Event,2026-06-09T10:19:38+00:00,xilonen
+300073,Character Event,2026-06-09T10:18:52+00:00,"nahida, hu_tao"
+300074,Character Event,2026-06-09T10:18:13+00:00,chasca
+300075,Character Event,2026-06-09T10:17:29+00:00,"neuvillette, zhongli"
+300076,Character Event,2026-06-09T10:12:06+00:00,"mavuika, citlali"
+300077,Character Event,2026-06-09T10:11:15+00:00,"arlecchino, clorinde"
+300078,Character Event,2026-06-09T10:10:33+00:00,"yumemizuki_mizuki, sigewinne"
+300079,Character Event,2026-06-09T10:09:27+00:00,"furina, wriothesley"
+300080,Character Event,2026-06-09T10:08:44+00:00,"varesa, xianyun"
+300081,Character Event,2026-06-09T10:08:14+00:00,xilonen
+300082,Character Event,2026-06-09T10:07:35+00:00,escoffier
+300083,Character Event,2026-06-09T10:07:11+00:00,"kinich, raiden_shogun"
+300084,Character Event,2026-06-09T10:06:21+00:00,skirk
+300085,Character Event,2026-06-09T10:05:47+00:00,"mavuika, emilie"
+300086,Character Event,2026-06-09T10:05:07+00:00,"citlali, ineffa"
+300087,Character Event,2026-06-09T10:04:29+00:00,"chasca, mualani"
+300088,Character Event,2026-06-09T10:03:38+00:00,lauma
+300089,Character Event,2026-06-09T10:02:45+00:00,flins
+300090,Character Event,2026-06-09T10:01:58+00:00,"nefer, furina"
+300091,Character Event,2026-06-09T10:01:28+00:00,arlecchino
+300092,Character Event,2026-06-09T10:00:43+00:00,durin
+300093,Character Event,2026-06-09T10:00:10+00:00,"xilonen, varesa"
+300094,Character Event,2026-06-09T09:55:03+00:00,"columbina, ineffa"
+300095,Character Event,2026-06-09T09:54:23+00:00,"zibai, neuvillette"
+300096,Character Event,2026-06-09T09:53:47+00:00,"varka, flins"
+300097,Character Event,2026-06-09T09:53:14+00:00,"escoffier, skirk"
+300098,Character Event,2026-06-09T09:52:44+00:00,linnea
+300099,Character Event,2026-06-09T09:52:26+00:00,"lauma, nefer"
+300100,Character Event,2026-06-12T16:00:17+00:00,"nicole, durin"
+300101,Character Event,2026-06-11T16:00:00+00:00,"lohen, mavuika"
+400008,Weapon Event,2026-06-09T11:47:58+00:00,"wolfs_gravestone, staff_of_homa"
+400009,Weapon Event,2026-06-09T11:47:46+00:00,"skyward_blade, elegy_for_the_end"
+400010,Weapon Event,2026-06-09T11:47:33+00:00,"lost_prayer_to_the_sacred_winds, skyward_harp"
+400011,Weapon Event,2026-06-09T11:47:20+00:00,"memory_of_dust, summit_shaper"
+400012,Weapon Event,2026-06-09T11:47:02+00:00,"aquila_favonia, song_of_broken_pines"
+400013,Weapon Event,2026-06-09T11:46:43+00:00,"lost_prayer_to_the_sacred_winds, skyward_pride"
+400014,Weapon Event,2026-06-09T11:46:23+00:00,"skyward_atlas, freedom-sworn"
+400015,Weapon Event,2026-06-09T11:45:56+00:00,"mistsplitter_reforged, skyward_spine"
+400016,Weapon Event,2026-06-09T11:45:29+00:00,"thundering_pulse, skyward_blade"
+400017,Weapon Event,2026-06-09T11:44:55+00:00,"engulfing_lightning, the_unforged"
+400018,Weapon Event,2026-06-09T11:40:39+00:00,"primordial_jade_cutter, everlasting_moonglow"
+400019,Weapon Event,2026-06-09T11:39:51+00:00,"polar_star, memory_of_dust"
+400020,Weapon Event,2026-06-09T11:38:58+00:00,"staff_of_homa, elegy_for_the_end"
+400021,Weapon Event,2026-06-09T11:34:29+00:00,"song_of_broken_pines, freedom-sworn"
+400022,Weapon Event,2026-06-09T11:28:56+00:00,"redhorn_stonethresher, skyward_harp"
+400023,Weapon Event,2026-06-09T11:28:00+00:00,"calamity_queller, primordial_jade_winged-spear"
+400024,Weapon Event,2026-06-09T11:23:14+00:00,"amos_bow, vortex_vanquisher"
+400025,Weapon Event,2026-06-09T11:18:19+00:00,"kaguras_verity, primordial_jade_cutter"
+400026,Weapon Event,2026-06-09T11:15:55+00:00,"engulfing_lightning, everlasting_moonglow"
+400027,Weapon Event,2026-06-09T11:11:38+00:00,"haran_geppaku_futsu, elegy_for_the_end"
+400028,Weapon Event,2026-06-09T11:07:21+00:00,"mistsplitter_reforged, the_unforged"
+400029,Weapon Event,2026-06-09T11:06:31+00:00,"aqua_simulacra, primordial_jade_winged-spear"
+400030,Weapon Event,2026-06-09T11:02:03+00:00,"redhorn_stonethresher, memory_of_dust"
+400031,Weapon Event,2026-06-09T11:01:19+00:00,"freedom-sworn, lost_prayer_to_the_sacred_winds"
+400032,Weapon Event,2026-06-09T10:56:36+00:00,"thundering_pulse, summit_shaper"
+400033,Weapon Event,2026-06-09T10:56:00+00:00,"hunters_path, vortex_vanquisher"
+400034,Weapon Event,2026-06-09T10:55:24+00:00,"amos_bow, everlasting_moonglow"
+400035,Weapon Event,2026-06-09T10:54:45+00:00,"staff_of_the_scarlet_sands, elegy_for_the_end"
+400036,Weapon Event,2026-06-09T10:54:01+00:00,"key_of_khaj-nisut, primordial_jade_cutter"
+400037,Weapon Event,2026-06-09T10:53:20+00:00,"a_thousand_floating_dreams, thundering_pulse"
+400038,Weapon Event,2026-06-09T10:50:59+00:00,"kaguras_verity, polar_star"
+400039,Weapon Event,2026-06-09T10:50:19+00:00,"tulaytullahs_remembrance, redhorn_stonethresher"
+400040,Weapon Event,2026-06-09T10:48:08+00:00,"engulfing_lightning, haran_geppaku_futsu"
+400041,Weapon Event,2026-06-09T10:47:23+00:00,"light_of_foliar_incision, primordial_jade_winged-spear"
+400042,Weapon Event,2026-06-09T10:46:34+00:00,"staff_of_homa, aqua_simulacra"
+400043,Weapon Event,2026-06-09T10:44:15+00:00,"beacon_of_the_reed_sea, staff_of_the_scarlet_sands"
+400044,Weapon Event,2026-06-09T10:43:35+00:00,"mistsplitter_reforged, calamity_queller"
+400045,Weapon Event,2026-06-09T10:42:54+00:00,"a_thousand_floating_dreams, key_of_khaj-nisut"
+400046,Weapon Event,2026-06-09T10:42:17+00:00,"jadefalls_splendor, amos_bow"
+400047,Weapon Event,2026-06-09T10:41:43+00:00,"kaguras_verity, thundering_pulse"
+400048,Weapon Event,2026-06-09T10:41:04+00:00,"light_of_foliar_incision, freedom-sworn"
+400049,Weapon Event,2026-06-09T10:40:26+00:00,"song_of_broken_pines, lost_prayer_to_the_sacred_winds"
+400050,Weapon Event,2026-06-09T10:39:48+00:00,"tulaytullahs_remembrance, everlasting_moonglow"
+400051,Weapon Event,2026-06-09T10:39:06+00:00,"aqua_simulacra, the_first_great_magic"
+400052,Weapon Event,2026-06-09T10:38:29+00:00,"polar_star, vortex_vanquisher"
+400053,Weapon Event,2026-06-09T10:37:39+00:00,"tome_of_the_eternal_flow, staff_of_homa"
+400054,Weapon Event,2026-06-09T10:36:52+00:00,"cashflow_supervision, elegy_for_the_end"
+400055,Weapon Event,2026-06-09T10:35:58+00:00,"splendor_of_tranquil_waters, jadefalls_splendor"
+400056,Weapon Event,2026-06-09T10:30:39+00:00,"haran_geppaku_futsu, staff_of_the_scarlet_sands"
+400057,Weapon Event,2026-06-09T10:29:49+00:00,"verdict, mistsplitter_reforged"
+400058,Weapon Event,2026-06-09T10:29:12+00:00,"engulfing_lightning, thundering_pulse"
+400059,Weapon Event,2026-06-09T10:28:31+00:00,"cranes_echoing_call, a_thousand_floating_dreams"
+400060,Weapon Event,2026-06-09T10:27:48+00:00,"kaguras_verity, primordial_jade_winged-spear"
+400061,Weapon Event,2026-06-09T10:27:17+00:00,"uraku_misugiri, redhorn_stonethresher"
+400062,Weapon Event,2026-06-09T10:26:45+00:00,"tome_of_the_eternal_flow, freedom-sworn"
+400063,Weapon Event,2026-06-09T10:25:56+00:00,"crimson_moons_semblance, the_first_great_magic"
+400064,Weapon Event,2026-06-09T10:25:10+00:00,"tulaytullahs_remembrance, jadefalls_splendor"
+400065,Weapon Event,2026-06-09T10:24:34+00:00,"absolution, light_of_foliar_incision"
+400066,Weapon Event,2026-06-09T10:23:55+00:00,"splendor_of_tranquil_waters, silvershower_heartstrings"
+400067,Weapon Event,2026-06-09T10:23:11+00:00,"key_of_khaj-nisut, verdict"
+400068,Weapon Event,2026-06-09T10:22:33+00:00,"aqua_simulacra, lumidouce_elegy"
+400069,Weapon Event,2026-06-09T10:21:49+00:00,"surfs_up, freedom-sworn"
+400070,Weapon Event,2026-06-09T10:20:59+00:00,"fang_of_the_mountain_king, engulfing_lightning"
+400071,Weapon Event,2026-06-09T10:20:12+00:00,"peak_patrol_song, uraku_misugiri"
+400072,Weapon Event,2026-06-09T10:19:22+00:00,"staff_of_homa, a_thousand_floating_dreams"
+400073,Weapon Event,2026-06-09T10:18:36+00:00,"astral_vultures_crimson_plumage, the_first_great_magic"
+400074,Weapon Event,2026-06-09T10:17:59+00:00,"tome_of_the_eternal_flow, vortex_vanquisher"
+400075,Weapon Event,2026-06-09T10:17:03+00:00,"a_thousand_blazing_suns, starcallers_watch"
+400076,Weapon Event,2026-06-09T10:11:46+00:00,"crimson_moons_semblance, absolution"
+400077,Weapon Event,2026-06-09T10:11:02+00:00,"sunny_morning_sleep-in, silvershower_heartstrings"
+400078,Weapon Event,2026-06-09T10:10:16+00:00,"splendor_of_tranquil_waters, cashflow_supervision"
+400079,Weapon Event,2026-06-09T10:09:17+00:00,"vivid_notions, cranes_echoing_call"
+400080,Weapon Event,2026-06-09T10:08:33+00:00,"peak_patrol_song, elegy_for_the_end"
+400081,Weapon Event,2026-06-09T10:08:02+00:00,"symphonist_of_scents, verdict"
+400082,Weapon Event,2026-06-09T10:07:25+00:00,"fang_of_the_mountain_king, engulfing_lightning"
+400083,Weapon Event,2026-06-09T10:06:50+00:00,"azurelight, calamity_queller"
+400084,Weapon Event,2026-06-09T10:06:12+00:00,a_thousand_blazing_suns
+400085,Weapon Event,2026-06-09T10:05:36+00:00,"fractured_halo, starcallers_watch"
+400086,Weapon Event,2026-06-09T10:04:55+00:00,"astral_vultures_crimson_plumage, surfs_up"
+400087,Weapon Event,2026-06-09T10:04:15+00:00,"nightweavers_looking_glass, a_thousand_floating_dreams"
+400088,Weapon Event,2026-06-09T10:03:17+00:00,"bloodsoaked_ruins, aqua_simulacra"
+400089,Weapon Event,2026-06-09T10:02:25+00:00,"reliquary_of_truth, splendor_of_tranquil_waters"
+400090,Weapon Event,2026-06-09T10:01:46+00:00,"crimson_moons_semblance, vortex_vanquisher"
+400091,Weapon Event,2026-06-09T10:01:13+00:00,"athame_artis, the_daybreak_chronicles"
+400092,Weapon Event,2026-06-09T10:00:32+00:00,"vivid_notions, peak_patrol_song"
+400093,Weapon Event,2026-06-09T09:59:49+00:00,"nocturnes_curtain_call, fractured_halo"
+400094,Weapon Event,2026-06-09T09:54:50+00:00,"lightbearing_moonshard, tome_of_the_eternal_flow"
+400095,Weapon Event,2026-06-09T09:54:09+00:00,"gest_of_the_mighty_wolf, bloodsoaked_ruins"
+400096,Weapon Event,2026-06-09T09:53:35+00:00,"azurelight, symphonist_of_scents"
+400097,Weapon Event,2026-06-09T09:53:04+00:00,"golden_frostbound_oath, astral_vultures_crimson_plumage"
+400098,Weapon Event,2026-06-09T09:52:36+00:00,"reliquary_of_truth, nightweavers_looking_glass"
+400099,Weapon Event,2026-06-12T16:00:30+00:00,"angelos_heptades, athame_artis"
+400100,Weapon Event,2026-06-11T16:00:09+00:00,"disaster_and_remorse, a_thousand_blazing_suns"
+500001,Chronicled Wish,2026-06-09T09:51:16+00:00,"hunters_path, albedo"
+500002,Chronicled Wish,2026-06-09T09:50:24+00:00,"shenhe, tartaglia, ganyu, xiao, baizhu"
+500003,Chronicled Wish,2026-06-09T09:49:30+00:00,"kaedehara_kazuha, yae_miko, chiori, sangonomiya_kokomi"
+500005,Chronicled Wish,2026-06-09T09:49:15+00:00,"klee, albedo, eula"
+500006,Chronicled Wish,2026-06-11T16:00:37+00:00,navia

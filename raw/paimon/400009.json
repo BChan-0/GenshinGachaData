@@ -1,0 +1,260 @@
+{
+  "time": "2026-06-09T11:47:46+00:00",
+  "list": [
+    {
+      "name": "skyward_harp",
+      "type": "weapon",
+      "count": 109,
+      "guaranteed": 1
+    },
+    {
+      "name": "skyward_blade",
+      "type": "weapon",
+      "count": 1939,
+      "guaranteed": 259
+    },
+    {
+      "name": "wolfs_gravestone",
+      "type": "weapon",
+      "count": 99,
+      "guaranteed": 0
+    },
+    {
+      "name": "skyward_spine",
+      "type": "weapon",
+      "count": 123,
+      "guaranteed": 0
+    },
+    {
+      "name": "skyward_pride",
+      "type": "weapon",
+      "count": 126,
+      "guaranteed": 0
+    },
+    {
+      "name": "aquila_favonia",
+      "type": "weapon",
+      "count": 102,
+      "guaranteed": 0
+    },
+    {
+      "name": "skyward_atlas",
+      "type": "weapon",
+      "count": 108,
+      "guaranteed": 0
+    },
+    {
+      "name": "amos_bow",
+      "type": "weapon",
+      "count": 103,
+      "guaranteed": 0
+    },
+    {
+      "name": "lost_prayer_to_the_sacred_winds",
+      "type": "weapon",
+      "count": 101,
+      "guaranteed": 0
+    },
+    {
+      "name": "elegy_for_the_end",
+      "type": "weapon",
+      "count": 1919,
+      "guaranteed": 276
+    },
+    {
+      "name": "primordial_jade_winged-spear",
+      "type": "weapon",
+      "count": 119,
+      "guaranteed": 0
+    }
+  ],
+  "pityAverage": {
+    "legendary": 46.099216171617165,
+    "rare": 6.563227373534692
+  },
+  "median": {
+    "legendary": 62
+  },
+  "pityCount": {
+    "legendary": [
+      0,
+      49,
+      52,
+      69,
+      64,
+      72,
+      57,
+      59,
+      65,
+      54,
+      65,
+      56,
+      53,
+      64,
+      38,
+      70,
+      43,
+      48,
+      45,
+      47,
+      29,
+      51,
+      54,
+      44,
+      38,
+      43,
+      47,
+      31,
+      37,
+      35,
+      36,
+      23,
+      39,
+      41,
+      30,
+      27,
+      43,
+      32,
+      21,
+      22,
+      31,
+      24,
+      38,
+      29,
+      19,
+      30,
+      26,
+      35,
+      28,
+      26,
+      31,
+      23,
+      37,
+      36,
+      29,
+      19,
+      23,
+      31,
+      32,
+      21,
+      28,
+      16,
+      22,
+      210,
+      358,
+      418,
+      391,
+      372,
+      290,
+      187,
+      105,
+      56,
+      23,
+      6,
+      3,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      null,
+      null,
+      1
+    ],
+    "rare": [
+      3284,
+      2960,
+      2755,
+      2410,
+      2359,
+      2288,
+      2127,
+      19323,
+      9759,
+      80
+    ]
+  },
+  "total": {
+    "legendary": 4848,
+    "rare": 0,
+    "all": 322408,
+    "users": 21823
+  },
+  "countEachPity": [],
+  "pullByDay": [],
+  "constellation": {
+    "amos_bow": [
+      103
+    ],
+    "aquila_favonia": [
+      98,
+      4
+    ],
+    "elegy_for_the_end": [
+      1624,
+      122,
+      12,
+      8,
+      135,
+      18
+    ],
+    "lost_prayer_to_the_sacred_winds": [
+      99,
+      2
+    ],
+    "primordial_jade_winged-spear": [
+      117,
+      2
+    ],
+    "skyward_atlas": [
+      106,
+      2
+    ],
+    "skyward_blade": [
+      1416,
+      246,
+      87,
+      44,
+      45,
+      12,
+      28,
+      61
+    ],
+    "skyward_harp": [
+      105,
+      4
+    ],
+    "skyward_pride": [
+      122,
+      4
+    ],
+    "skyward_spine": [
+      119,
+      4
+    ],
+    "wolfs_gravestone": [
+      99
+    ]
+  }
+}

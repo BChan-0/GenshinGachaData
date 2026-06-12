@@ -2,3 +2,4 @@ pandas
 requests
 numpy
 matplotlib
+PyGithub<2.0
