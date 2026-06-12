@@ -5,19 +5,18 @@ Python web scraper.
 Created for HSYLC with public data.
 
 A small pipeline that gathers Genshin Impact gacha (wish) data into CSVs and a
-sqlite database. There are **two separate datasets**, because they come from two
-fundamentally different kinds of source:
+sqlite database. There are two separate datasets because they come from two
+different kinds of sources:
 
 | Dataset | Granularity | Source | Output |
 |---|---|---|---|
 | **Individual** | one row per pull | UIGF wish-history exports | `csv/pulls.csv` |
 | **Aggregated** | community-wide totals | paimon.moe | `csv/aggregate/*.csv` |
 
-> **Why two sources?** paimon.moe only publishes *aggregate* statistics — e.g.
-> "this character was pulled N times across all ~3.4M tracked users." It has no
+> **Why two sources?** paimon.moe only publishes aggregate statistics. It has no
 > per-pull rows, timestamps, or per-pull pity. So the individual columns
-> (date, time, region, result, rarity, pity, banner) **cannot** come from
-> paimon.moe — they come from individual players' UIGF exports.
+> (date, time, region, result, rarity, pity, banner) cannot come from
+> paimon.moe.
 
 ## Setup
 
@@ -26,7 +25,7 @@ pip install -r requirements.txt
 ```
 
 Every script reads its paths from `scripts/paths.py`, so you can run them from
-the `scripts/` folder **or** the repo root — both work.
+the `scripts/` folder or the repo root.
 
 ## Individual dataset (`csv/pulls.csv`)
 
@@ -71,13 +70,13 @@ python3 scripts/parse_uigf.py        # -> csv/pulls.csv
 The scrape has four tunable levers, in `scripts/download_uigf.py`, weakest to
 strongest:
 
-1. **More depth per query** — raise `MAX_RESULTS_PER_QUERY` (200 → up to 1000).
-2. **More breadth** — add exporter signatures to `SEARCH_QUERIES`. Each distinct
+1. **More depth per query** by raising `MAX_RESULTS_PER_QUERY` (200 → up to 1000).
+2. **More breadth** by adding exporter signatures to `SEARCH_QUERIES`. Each distinct
    query reaches files the others miss.
-3. **Targeted scope** — add `repo:owner/name` or `user:someone` to a query to
+3. **Targeted scope** by adding `repo:owner/name` or `user:someone` to a query to
    focus on a known source.
-4. **Full-repo harvest (biggest win for UIGF)** — add `"owner/repo"` entries to
-   the `REPOS` list. Code search only returns a capped subset *per repo*, but an
+4. **Full-repo harvest** by adding `"owner/repo"` entries to
+   the `REPOS` list. Code search only returns a capped subset per repo, but an
    aggregator repo can hold hundreds of exports; harvesting walks the repo's
    entire file tree and grabs every UIGF export (and bypasses code search's
    384 KB file-size limit). The repos shown in a scrape's output are good
@@ -110,11 +109,10 @@ python3 scripts/import_onebst.py --accounts 20   # ...or cap how many accounts
   number, anonymised into `player_id` like everything else).
 
 > **Name normalisation:** real exports use whatever language the player's client
-> was set to (the scraped Chinese players' UIGF *and* OneBST are in Chinese).
+> was set to (the scraped Chinese players' UIGF and OneBST are in Chinese).
 > `download_reference.py` builds `name_lookup.json` (Chinese/English → English
 > slug) so `parse_uigf.py` and `import_onebst.py` emit one consistent `result`
-> slug that joins across sources and to the aggregate data. Run it first; without
-> it, names pass through in their original language.
+> slug that joins across sources and to the aggregate data.
 
 ## Aggregated dataset (`csv/aggregate/`)
 
