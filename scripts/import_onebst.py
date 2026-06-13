@@ -155,13 +155,19 @@ def _to_int(value, default):
         return default
 
 
-def load_dataset_03(directory):
-    """Yield (uid_suffix, records) from extracted dataset_03 CSVs."""
+def load_dataset_03(directory, max_accounts=None):
+    """Yield (uid_suffix, records) from extracted dataset_03 CSVs.
+
+    Reads whatever CSVs are present in `directory`, so you can extract just a
+    few files from the 7z instead of all ~16k. max_accounts caps it further.
+    """
     files = sorted(glob.glob(os.path.join(directory, "*.csv")))
     if not files:
         raise SystemExit(
             "No CSVs in {}. Extract the dataset_03 7z (password 'OneBST') and "
             "point ONEBST_03_DIR at the player_data folder.".format(directory))
+    if max_accounts is not None:
+        files = files[:max_accounts]
     for path in files:
         # filename's last 4 chars before .csv are the UID suffix.
         stem = os.path.splitext(os.path.basename(path))[0]
@@ -176,7 +182,10 @@ def main():
                     help="02 = fetch plain CSV over HTTP (default); "
                          "03 = read extracted CSVs from ONEBST_03_DIR.")
     ap.add_argument("--accounts", type=int, default=None,
-                    help="dataset_02 only: cap the number of accounts fetched.")
+                    help="cap the number of accounts processed (both modes).")
+    ap.add_argument("--max-pulls", type=int, default=None,
+                    help="stop once this many pulls have been collected "
+                         "(approx -- finishes the current account first).")
     args = ap.parse_args()
 
     paths.ensure_dirs(paths.CSV)
@@ -187,7 +196,7 @@ def main():
         directory = os.environ.get("ONEBST_03_DIR")
         if not directory:
             raise SystemExit("Set ONEBST_03_DIR to the extracted player_data folder.")
-        source = load_dataset_03(directory)
+        source = load_dataset_03(directory, args.accounts)
 
     all_rows = []
     n_players = 0
@@ -200,6 +209,9 @@ def main():
         n_players += 1
         if n_players % 25 == 0:
             print("  ...{} accounts, {} pulls so far".format(n_players, len(all_rows)))
+        if args.max_pulls is not None and len(all_rows) >= args.max_pulls:
+            print("  reached --max-pulls ({}); stopping.".format(args.max_pulls))
+            break
 
     if not all_rows:
         raise SystemExit("No pulls imported from OneBST.")
